@@ -124,8 +124,8 @@ spawn(function()
     asiufdl = 0
     repeat wait(1)
     game:GetService("StarterGui"):SetCore("SendNotification", {
-        Title = "FOXY SV",
-        Text = "CHECKING GAME LOAD : "..tostring(asiufdl),
+        Title = "by 𝙁𝙪𝙣𝙣𝙮𝙭#0001",
+        Text = "รอหน่อยไอสัส"..tostring(asiufdl),
         Duration = 3
     })
         asiufdl = 1
